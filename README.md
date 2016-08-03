@@ -9,6 +9,10 @@ Saturday, July 30 at 2 PM - 5:30 PM
 [Mozilla Space](https://moztw.org/space/)   
 地址：100 台北市中正區八德路一段 94 號 3F
 
+### 活動網址
+
+[Facebook 活動網址](https://www.facebook.com/events/531537360363590/)
+
 ### Staff
 
 + Charlie
