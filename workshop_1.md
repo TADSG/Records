@@ -46,4 +46,5 @@ Saturday, July 30 at 2 PM - 5:30 PM
 [問卷結果](https://docs.google.com/forms/d/1fPKxpAUQhBRnStfnk8oAKbpqx8I2X0aMk93iLnja63Y/edit?edit_requested=true#responses)
 
 ---
-cc by sa
+# License
+[CC-BY-SA](https://creativecommons.org/licenses/by-sa/)
