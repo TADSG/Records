@@ -1,8 +1,17 @@
 # 活動紀錄列表
 
 
-1. [第一回 Android Developer 讀書會 Workshop](workshop_1.md)
+### Workshop
+1. [第一回 Android Developer 讀書會 Workshop](/WorkShop/workshop_1/README.md)
+
+### Activity
+1. [第32回Android Developer讀書會 活動紀錄](/Activity/activity_32/README.md)
+2. [第31回Android Developer讀書會 活動紀錄](/Activity/activity_31/README.md)
+3. [第30回Android Developer讀書會 活動紀錄](/Activity/activity_30/README.md)
+4. [第29回Android Developer讀書會 活動紀錄](/Activity/activity_29/README.md)
+5. [第27回Android Developer讀書會 活動紀錄](/Activity/activity_27/README.md)
+6. [第26回Android Developer讀書會 活動紀錄](/Activity/activity_26/README.md)
+7. [第25回Android Developer讀書會 活動紀錄](/Activity/activity_25/README.md)
 
 ---
-# License
-[CC-BY-SA](https://creativecommons.org/licenses/by-sa/)
+cc by sa
