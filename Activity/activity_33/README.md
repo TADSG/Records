@@ -26,7 +26,8 @@ Swap App
 
 ### Material & Demo Code
 
-[Pokémon GO api](https://github.com/weihung/PokemonAPI) 
+[Pokémon GO api](https://github.com/weihung/PokemonAPI)   
+[Python x 網路爬蟲](https://medium.com/dualcores-studio/python-x-%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2-c30ffda0ad78#.9h2g2zicc) 
 
 ### Photo
 ![活動團體照](/Activity/activity_33/photo/14068345_1164564140231650_406329201026094165_o.jpg)

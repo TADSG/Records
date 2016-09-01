@@ -2,7 +2,7 @@
 
 
 ### Workshop
-1. [第一回 Android Developer 讀書會 Workshop](/WorkShop/workshop_1/README.md)
+1. [第1回 Android Developer 讀書會 Workshop](/WorkShop/workshop_1/README.md)
 
 ### Activity
 1. [第33回Android Developer讀書會 活動紀錄](/Activity/activity_33/README.md)
@@ -15,6 +15,8 @@
 8. [第25回Android Developer讀書會 活動紀錄](/Activity/activity_25/README.md)
 
 ### AOSP Study
+1. [第1回Android Developer讀書會 AOSP分享 -- Android環境架設&基本介紹](/AOSP/aosp_1/README.md)
+2. [第2回Android Developer讀書會 AOSP分享 -- Android開機流程](/AOSP/aosp_2/README.md)
 
 ---
 cc by sa
