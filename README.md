@@ -5,14 +5,15 @@
 1. [第1回 Android Developer 讀書會 Workshop](/WorkShop/workshop_1/README.md)
 
 ### Activity
-1. [第33回Android Developer讀書會 活動紀錄](/Activity/activity_33/README.md)
-2. [第32回Android Developer讀書會 活動紀錄](/Activity/activity_32/README.md)
-3. [第31回Android Developer讀書會 活動紀錄](/Activity/activity_31/README.md)
-4. [第30回Android Developer讀書會 活動紀錄](/Activity/activity_30/README.md)
-5. [第29回Android Developer讀書會 活動紀錄](/Activity/activity_29/README.md)
-6. [第27回Android Developer讀書會 活動紀錄](/Activity/activity_27/README.md)
-7. [第26回Android Developer讀書會 活動紀錄](/Activity/activity_26/README.md)
-8. [第25回Android Developer讀書會 活動紀錄](/Activity/activity_25/README.md)
+1. [第34回Android Developer讀書會 活動紀錄](/Activity/activity_34/README.md)
+2. [第33回Android Developer讀書會 活動紀錄](/Activity/activity_33/README.md)
+3. [第32回Android Developer讀書會 活動紀錄](/Activity/activity_32/README.md)
+4. [第31回Android Developer讀書會 活動紀錄](/Activity/activity_31/README.md)
+5. [第30回Android Developer讀書會 活動紀錄](/Activity/activity_30/README.md)
+6. [第29回Android Developer讀書會 活動紀錄](/Activity/activity_29/README.md)
+7. [第27回Android Developer讀書會 活動紀錄](/Activity/activity_27/README.md)
+8. [第26回Android Developer讀書會 活動紀錄](/Activity/activity_26/README.md)
+9. [第25回Android Developer讀書會 活動紀錄](/Activity/activity_25/README.md)
 
 ### AOSP Study
 1. [第1回Android Developer讀書會 AOSP分享 -- Android環境架設&基本介紹](/AOSP/aosp_1/README.md)
