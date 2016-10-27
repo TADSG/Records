@@ -18,6 +18,7 @@
 ### AOSP Study
 1. [第1回Android Developer讀書會 AOSP分享 -- Android環境架設&基本介紹](/AOSP/aosp_1/README.md)
 2. [第2回Android Developer讀書會 AOSP分享 -- Android開機流程](/AOSP/aosp_2/README.md)
+3. [第3回Android Developer讀書會 AOSP分享 -- Android Binder](/AOSP/aosp_3/README.md)
 
 ---
 cc by sa

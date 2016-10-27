@@ -20,7 +20,8 @@ Android開機流程
 
 ### Material & Demo Code
 
-[活動影片紀錄](https://www.youtube.com/channel/UCLROVX_Tf0utmruMMifmtAA) 
+[活動影片紀錄](https://www.youtube.com/channel/UCLROVX_Tf0utmruMMifmtAA)  
+[Git Project](https://github.com/TADSG/aosp-study) 
 
 ### Photo
 ![活動團體照](/AOSP/aosp_2/photo/14203246_1241836459170664_271480761641375644_n.jpg)

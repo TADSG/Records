@@ -20,7 +20,9 @@ Android環境架設&基本介紹
 
 ### Material & Demo Code
 
-[活動文字紀錄](https://docs.google.com/document/d/1TLfHcUJ7gTEDoU8YsefrN0XsYiqjmKMmcb7pLA4O1_A/edit) 
+[活動文字紀錄](https://docs.google.com/document/d/1TLfHcUJ7gTEDoU8YsefrN0XsYiqjmKMmcb7pLA4O1_A/edit)  
+[活動影片紀錄](https://www.youtube.com/channel/UCLROVX_Tf0utmruMMifmtAA)   
+[Git Project](https://github.com/TADSG/aosp-study) 
 
 ### Photo
 ![活動團體照](/AOSP/aosp_1/photo/13937861_1151766954844702_152674111734665827_o.jpg)
