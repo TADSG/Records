@@ -18,7 +18,7 @@ Android 2D Game Tutorial
 
 ### Link
 
-[Facebook 活動網址](https://www.facebook.com/events/713303108835997/) 
+[Facebook 活動網址](https://www.facebook.com/events/713303108835997/) <br/>
 [Meetup 活動網址](https://www.meetup.com/Taiwan-Android-Developer-Study-Group/events/234771208/)
 
 
