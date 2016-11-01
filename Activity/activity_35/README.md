@@ -23,6 +23,6 @@ Android 2D Game Tutorial
 
 
 ### Photo
-![活動團體照](/Activity/activity_35/photo/30340482400_dd36a55ca8_k.jpg)
-![活動團體照](/Activity/activity_35/photo/30340612280_18201cbfac_k.jpg)
-![活動團體照](/Activity/activity_35/photo/30552530851_5245a7d52a_k.jpg)
+![活動團體照](/Activity/activity_35/photo/30340482400_3e56d0ba4d_z.jpg)
+![活動團體照](/Activity/activity_35/photo/30340612280_05bbc86103_z.jpg)
+![活動團體照](/Activity/activity_35/photo/30552530851_7a110a0993_z.jpg)
