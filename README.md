@@ -3,6 +3,7 @@
 
 ### Workshop
 1. [第1回 Android Developer 讀書會 Workshop](/WorkShop/workshop_1/README.md)
+2. [第2回 Android Developer 讀書會 Workshop](/WorkShop/workshop_2/README.md)
 
 ### Activity
 1. [第35回Android Developer讀書會 活動紀錄](/Activity/activity_35/README.md)
