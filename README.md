@@ -6,6 +6,7 @@
 - [第2回 Android Developer 讀書會 Workshop](/WorkShop/workshop_2/README.md)
 
 ### Activity
+- [第39回Android Developer讀書會 活動紀錄](/Activity/activity_39/README.md)
 - [第37回Android Developer讀書會 活動紀錄](/Activity/activity_37/README.md)
 - [第36回Android Developer讀書會 活動紀錄](/Activity/activity_36/README.md)
 - [第35回Android Developer讀書會 活動紀錄](/Activity/activity_35/README.md)
