@@ -21,7 +21,8 @@ Saturday, June 24 at 2:30 PM - 5:30 PM
 
 ### Link
 
-[Facebook 活動網址](https://www.facebook.com/events/321570098259811/)
+[Facebook 活動網址](https://www.facebook.com/events/321570098259811/) <br>
+[Meetup 活動網址](https://www.meetup.com/Taiwan-Android-Developer-Study-Group/events/240733886/)
 
 ### Material & Demo Code
 [Camera1 使用經驗分享](https://www.slideshare.net/gn00540683/camera-1-77232932) <br>
